@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+    transition: 0,4s all;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+a:hover {
+    font-variant: normal;
+    margin-top: -10px;
+}
+.header-content{
+margin: 0 10%;
+
+}
+
+header {
+    display: flex;
+    padding: 20px 40px;
+    margin: 0 10%;
+    background-color:  gold;
+}
+header a:nth-child(1) {
+    margin-right: auto;
+    display: flex;
+}
+
+body {
+    background-color: aliceblue;
+}
+.header-content {
+    background-color: wheat;
+    display: flex;
+    margin: 0 10px;
+    padding: 20px 40px;
+    color: black;
+    justify-content: space-between;
+    font-size: x-large;
+    margin: 0 10%;
+}
+.header-content img{
+    width: 40% ;
+}
