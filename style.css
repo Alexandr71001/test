@@ -36,7 +36,7 @@ body {
     background-color: aliceblue;
 }
 .header-content {
-    background-color: rgb (255, 232, 102);
+    background-color: rgb (#fcba03);
     display: flex;
     margin: 0 10px;
     padding: 20px 40px;
